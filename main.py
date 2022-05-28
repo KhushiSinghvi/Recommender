@@ -11,7 +11,7 @@ import requests
 import streamlit as st
 from PIL import Image
 import json
-from Classifier import KNearestNeighbours
+
 from bs4 import BeautifulSoup
 import requests,io
 import PIL.Image
